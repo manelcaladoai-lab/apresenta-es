@@ -1,0 +1,6 @@
+{
+  "name": "Sorteio de Apresentações",
+  "description": "Aplicação interativa e transparente para sorteio de ordem de apresentações com restrições personalizadas, efeitos sonoros e frases motivacionais temáticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
